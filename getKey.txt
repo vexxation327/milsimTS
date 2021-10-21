@@ -1,0 +1,1 @@
+cat /home/teamspeak/logs/ts3server_*
